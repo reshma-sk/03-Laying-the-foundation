@@ -1,0 +1,16 @@
+{
+  "name": "03-laying-the-foundation",
+  "version": "1.0.0",
+  "description": "This is Nammaste React by akshay saini",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "reshma",
+    "shaik"
+  ],
+  "author": "reshma",
+  "license": "ISC"
+}
